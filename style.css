@@ -1,0 +1,44 @@
+body{
+    background-color: khaki;
+}
+
+.heading_1{
+    font-family: 'Palette Mosaic', cursive;
+    font-size: 50px;
+}
+
+.heading{
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    margin: 0px;
+    box-shadow: 5px 5px 5px goldenrod;
+    font-family: 'Anton', sans-serif;
+}
+.note{
+    font-size: 20px;
+    font-family: 'Allan', cursive;
+    text-align: center;
+font-family: 'Anton', sans-serif;
+color: greenyellow;
+
+}
+
+.copy_right_footer{
+position: fixed;
+background-color: grey;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: white;
+font-weight: 900;
+bottom: 0;
+width: 100%;
+text-align: center;
+line-height: 3;
+font-size: 15px;
+}
+
+canvas{
+    border: 5px dashed royalblue ;
+    border-radius: 20px;
+    box-shadow:  10px 10px 10px slateblue ;
+}
