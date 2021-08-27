@@ -24,6 +24,15 @@ color: greenyellow;
 
 }
 
+#square_sides{
+    font-size: 20px;
+    font-family: 'Allan', cursive;
+    text-align: center;
+font-family: 'Anton', sans-serif;
+color: greenyellow;
+background-color: red;
+}
+
 .copy_right_footer{
 position: fixed;
 background-color: grey;
